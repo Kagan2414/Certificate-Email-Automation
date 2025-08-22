@@ -36,8 +36,8 @@ MIN_FONT_SIZE = 24
 SEND_EMAIL = True  # <-- Set False to only generate
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
-SENDER_EMAIL = "eic.pcet@gmail.com"     # <-- change
-SENDER_APP_PASSWORD = "wztm frun tvpe pnqp" # <-- create App Password in Google
+SENDER_EMAIL = "mail@gmail.com"     # <-- change
+SENDER_APP_PASSWORD = "mail_password" # <-- create App Password in Google
 
 EMAIL_SUBJECT = "Your Certificate"
 EMAIL_BODY = """Dear {name},
